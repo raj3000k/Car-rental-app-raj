@@ -24,6 +24,25 @@
 | :------ | :--------: | :-----: |
 | 1.      |  MongoDB   |   3.6   |
 
+# Screeshots -
+
+![1](https://github.com/raj3000k/Car-rental-app-raj/assets/91799854/c3e0bbc7-df6d-4678-a804-53923a0c782e)
+
+![2-](https://github.com/raj3000k/Car-rental-app-raj/assets/91799854/7eea12fc-3672-455b-8cf1-631c417b4bc6)
+
+![3](https://github.com/raj3000k/Car-rental-app-raj/assets/91799854/91fda57c-7e2f-4ec0-9532-45b57bd90e28)
+
+#UI-
+
+
+
+https://github.com/raj3000k/Car-rental-app-raj/assets/91799854/8e3abfa3-b2d2-4353-b780-e886baa66491
+
+
+
+
+
+
 ### Programming Language and NPM Packages
 
 | Sr. No. |  Technology  | Version |
